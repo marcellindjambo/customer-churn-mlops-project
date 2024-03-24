@@ -2,4 +2,4 @@ Project : Predicting Customer Churn ,a Machine Learning approach to retention st
 
 
 By Marcellin Djambo
-email: djambomarcellin@gmail.com |# customer-churn-mlops-project
+email: djambomarcellin@gmail.com
